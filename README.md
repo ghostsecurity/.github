@@ -1,0 +1,2 @@
+# .github
+Centralised GitHub config
