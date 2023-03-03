@@ -2,10 +2,11 @@
 <!-- If this template isn't applicable just delete the content and write something helpful -->
 <!-- If this pull request closes an issue, please mention the issue number below -->
 
-#### 👻 Ghost Linear Issue:                             <!-- Issue # here -->
+#### 👻 Ghost Linear Issue
+ <!-- Issue # here -->
 
 ### 📑 Description (what does this PR add, change, remove)
-<!-- Add a brief description of the pr -->
+ <!-- Add a brief description of the pr -->
 
 ### ✅ Checks
 <!-- Make sure your pr passes the CI checks and do check the following fields as needed - -->
